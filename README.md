@@ -1,8 +1,6 @@
-# Book Management
+# Warm Up Task: Book Management
 
-# Warm Up Task
-
-# Tasks: implement the backend-features in Java using SpringBoot	
+# Tasks: Implement the backend-features in Java using SpringBoot	
 
 * Part I: Implementation
 	Create a book management application.
